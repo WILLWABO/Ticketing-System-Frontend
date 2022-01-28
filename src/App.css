@@ -1,0 +1,15 @@
+html,body {
+  height: 100%;
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+td {
+  word-wrap:break-word;
+  overflow: hidden;
+}
+
+span {
+  word-wrap:break-word;
+  max-width: 100%;
+}
